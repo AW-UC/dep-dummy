@@ -15,8 +15,6 @@
   },
   "devDependencies": {
     "blob-polyfill": "~1.0.20150320",
-    "dinosheets": "0.0.1",
-    "ember-simple-auth": "^0.8.0",
     "bootstrap-sass": "~3.3.5",
     "font-awesome": "~4.4.0",
     "leaflet": "~0.7.3",
