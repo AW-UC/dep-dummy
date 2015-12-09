@@ -16,14 +16,15 @@
   "devDependencies": {
     "blob-polyfill": "~1.0.20150320",
     "bootstrap-sass": "~3.3.5",
+    "dinosheets": "0.1.0",
     "font-awesome": "~4.4.0",
     "leaflet": "~0.7.3",
     "leaflet.markercluster": "^0.4.0",
     "moment": "~2.10.5",
     "moment-timezone": "~0.2.5",
-    "plupload": "v2.1.8",
+    "plupload": "~2.1.8",
     "selectize": "~0.12.1",
-    "swiper": "~3.1.2",
-    "tether": "~0.7.2"
+    "swiper": "~3.2.6",
+    "tether": "^1.0.3"
   }
 }
